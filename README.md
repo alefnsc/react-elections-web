@@ -1,6 +1,7 @@
 # React Elections
 
 [Netlify Frontend Deployment](https://my-funds-web.vercel.app/)
+
 [Glitch Backend Deployment](https://react-elections-web-afonseca.glitch.me)
 
 ![image](https://github.com/alefnsc/react-elections-web/assets/101351170/4c867199-b8c3-4ba1-9b32-0f478ceccbab)
